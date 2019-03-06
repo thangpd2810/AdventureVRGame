@@ -1,0 +1,1566 @@
+﻿Log file open, 03/03/19 18:14:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Wk8Sem2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.297618
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.182s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Unreal/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.03-10.14.20:336][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.03-10.14.20:336][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.03-10.14.20:368][  0]LogHAL: Display: Platform has ~ 8 GB [8539668480 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.03-10.14.20:368][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.03.03-10.14.20:368][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.03-10.14.20:370][  0]LogInit: Computer: DESKTOP-747EPVO
+[2019.03.03-10.14.20:370][  0]LogInit: User: XPS83
+[2019.03.03-10.14.20:370][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.03-10.14.20:370][  0]LogInit: High frequency timer resolution =3.117186 MHz
+[2019.03.03-10.14.20:371][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.03.03-10.14.20:371][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.03-10.14.20:371][  0]LogMemory: Process Physical Memory: 99.91 MB used, 99.91 MB peak
+[2019.03.03-10.14.20:371][  0]LogMemory: Process Virtual Memory: 90.79 MB used, 90.79 MB peak
+[2019.03.03-10.14.20:371][  0]LogMemory: Physical Memory: 5525.22 MB used,  2618.84 MB free, 8144.06 MB total
+[2019.03.03-10.14.20:371][  0]LogMemory: Virtual Memory: 4631.68 MB used,  2618.84 MB free, 134217728.00 MB total
+[2019.03.03-10.14.20:410][  0]LogInit: Using OS detected language (en-US).
+[2019.03.03-10.14.20:410][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.03.03-10.14.20:412][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.03-10.14.20:926][  0]LogStreaming: Display: Took  0.516s to InitEngineTextLocalization.
+[2019.03.03-10.14.20:926][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.03-10.14.21:018][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.03-10.14.21:018][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.03-10.14.29:228][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.03-10.14.29:287][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.03.03-10.14.29:287][  0]LogD3D11RHI:       4018/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.03-10.14.29:290][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.03-10.14.29:290][  0]LogD3D11RHI:       0/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.03-10.14.29:290][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.03-10.14.29:302][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.03-10.14.29:302][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.03-10.14.29:302][  0]LogWindows: EnumDisplayDevices:
+[2019.03.03-10.14.29:302][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2019.03.03-10.14.29:302][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.03.03-10.14.29:303][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.03.03-10.14.29:303][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.03.03-10.14.29:303][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.03.03-10.14.29:303][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.03.03-10.14.29:303][  0]LogD3D11RHI:   Driver Version: 390.77 (internal:23.21.13.9077, unified:390.77)
+[2019.03.03-10.14.29:303][  0]LogD3D11RHI:      Driver Date: 1-23-2018
+[2019.03.03-10.14.29:303][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2019.03.03-10.14.29:341][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.03-10.14.29:381][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.03-10.14.29:430][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/XPS83/OneDrive/Documents/GitHub/AdventureVRGame/Intermediate/Shaders/WorkingDirectory/17952/).
+[2019.03.03-10.14.29:430][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/XPS83/AppData/Local/Temp/UnrealShaderWorkingDir/D70369A2487D36195248F8B84FFE0E78/'.
+[2019.03.03-10.14.29:818][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.03-10.14.29:834][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.03-10.14.29:849][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.03-10.14.29:865][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.03-10.14.29:885][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.03-10.14.29:901][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.03-10.14.29:917][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.03-10.14.29:933][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.03-10.14.29:941][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.03-10.14.30:042][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:042][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:042][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:042][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:042][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:042][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:042][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:042][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:042][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:042][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:042][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:042][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:042][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:043][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:043][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:043][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:043][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:043][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-10.14.30:045][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.03-10.14.30:118][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.03-10.14.30:118][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.03-10.14.30:145][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.03-10.14.30:145][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.03-10.14.30:161][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.03-10.14.30:175][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.03-10.14.30:192][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.03-10.14.30:216][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.03-10.14.30:227][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.03-10.14.30:228][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.03-10.14.30:325][  0]LogXGEController: Cleaning working directory: C:/Users/XPS83/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.03-10.14.30:325][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.03-10.14.30:325][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.03-10.14.30:325][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.03-10.14.32:539][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.03-10.14.32:925][  0]LogDerivedDataCache: Loaded boot cache 0.39s 86MB C:/Users/XPS83/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.03-10.14.32:925][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/XPS83/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.03.03-10.14.32:925][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/XPS83/OneDrive/Documents/GitHub/AdventureVRGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.03-10.14.32:925][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.03-10.14.32:925][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/XPS83/OneDrive/Documents/GitHub/AdventureVRGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.03-10.14.32:925][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.03-10.14.32:941][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.03-10.14.32:954][  0]LogDerivedDataCache: Using Local data cache path C:/Users/XPS83/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.03-10.14.32:954][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.03-10.14.32:954][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.03-10.14.32:975][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.03-10.14.32:977][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.03-10.14.32:996][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.03-10.14.33:307][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2019.03.03-10.14.33:677][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.03-10.14.33:749][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.03-10.14.33:755][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.03-10.14.33:755][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.03-10.14.33:755][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.03-10.14.33:755][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.03-10.14.33:866][  0]LogNetVersion: Wk8Sem2 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1070224677)
+[2019.03.03-10.14.33:944][  0]LogNavigation: Error: [/Script/Engine.NavigationSystem] found in the DefaultEngine.ini file. This class has been moved. Please rename that section to [/Script/NavigationSystem.NavigationSystemV1]
+[2019.03.03-10.14.34:556][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.173450 seconds
+[2019.03.03-10.14.34:565][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.03.03-10.14.34:565][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.03.03-10.14.34:565][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.03-10.14.38:148][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2019.03.03-10.14.38:156][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.03-10.14.38:170][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.03-10.14.38:437][  0]SourceControl: Source control is disabled
+[2019.03.03-10.14.38:437][  0]SourceControl: Source control is disabled
+[2019.03.03-10.14.38:440][  0]SourceControl: Source control is disabled
+[2019.03.03-10.14.38:442][  0]SourceControl: Source control is disabled
+[2019.03.03-10.14.38:667][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.03-10.14.38:749][  0]LogOcInput: OculusInput pre-init called
+[2019.03.03-10.14.38:959][  0]LogEngine: Initializing Engine...
+[2019.03.03-10.14.39:025][  0]LogHMD: SteamVR initialized.  Driver: holographic  Display: WindowsHolographic
+[2019.03.03-10.14.39:026][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.03-10.14.39:026][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.03-10.14.39:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.03-10.14.39:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.03-10.14.39:271][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.03-10.14.39:298][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.03-10.14.39:386][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.03-10.14.39:407][  0]LogInit: FAudioDevice initialized.
+[2019.03.03-10.14.39:407][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.03-10.14.39:526][  0]LogDerivedDataCache: Saved boot cache 0.12s 86MB C:/Users/XPS83/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.03-10.14.39:546][  0]LogInit: Texture streaming: Enabled
+[2019.03.03-10.14.39:572][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.03-10.14.39:598][  0]LogInit: Transaction tracking system initialized
+[2019.03.03-10.14.39:637][  0]BlueprintLog: New page: Editor Load
+[2019.03.03-10.14.39:767][  0]LocalizationService: Localization service is disabled
+[2019.03.03-10.14.40:347][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.03-10.14.40:347][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.03-10.14.40:347][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.03-10.14.40:347][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.03-10.14.40:347][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.03-10.14.40:347][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.03-10.14.40:347][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.03-10.14.40:688][  0]LogFileCache: Scanning file cache for directory 'C:/Users/XPS83/OneDrive/Documents/GitHub/AdventureVRGame/Content/' took 0.03s
+[2019.03.03-10.14.40:688][  0]SourceControl: Source control is disabled
+[2019.03.03-10.14.40:688][  0]Cmd: MAP LOAD FILE="../../../../../../Users/XPS83/OneDrive/Documents/GitHub/AdventureVRGame/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.03-10.14.40:688][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/XPS83/OneDrive/Documents/GitHub/AdventureVRGame/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2019.03.03-10.14.40:689][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.03-10.14.40:782][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 93.075ms to complete.
+[2019.03.03-10.14.40:782][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 0.094
+[2019.03.03-10.14.40:840][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.03-10.14.40:841][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2019.03.03-10.14.40:914][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-10.14.40:922][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-10.14.40:930][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-10.14.40:938][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-10.14.40:952][  0]LogCollectionManager: Loaded 0 collections in 0.002932 seconds
+[2019.03.03-10.14.40:995][  0]LogFileCache: Scanning file cache for directory 'C:/Users/XPS83/OneDrive/Documents/GitHub/AdventureVRGame/Saved/Collections/' took 0.01s
+[2019.03.03-10.14.40:995][  0]LogFileCache: Scanning file cache for directory 'C:/Users/XPS83/OneDrive/Documents/GitHub/AdventureVRGame/Content/Developers/XPS83/Collections/' took 0.01s
+[2019.03.03-10.14.40:995][  0]LogFileCache: Scanning file cache for directory 'C:/Users/XPS83/OneDrive/Documents/GitHub/AdventureVRGame/Content/Collections/' took 0.01s
+[2019.03.03-10.14.40:995][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.03-10.14.41:006][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2595 classes and 614 folders.
+[2019.03.03-10.14.41:015][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.03-10.14.41:457][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.03-10.14.41:464][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.03.03-10.14.41:476][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2019.03.03-10.14.41:554][  0]LogSlate: Took 0.013756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.03-10.14.41:562][  0]LogSlate: Took 0.006968 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.03-10.14.41:573][  0]LogSlate: Took 0.005221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.03-10.14.41:689][  0]LogRenderer: Reallocating scene render targets to support 936x652 Format 26 NumSamples 1 (Frame:1).
+[2019.03.03-10.14.41:809][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.03-10.14.41:809][  0]LogLoad: (Engine Initialization) Total time: 25.86 seconds
+[2019.03.03-10.14.41:809][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.03-10.14.41:901][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.03-10.14.41:930][  0]LogSlate: Took 0.005839 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.03-10.14.41:947][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2019.03.03-10.14.41:973][  1]LogAssetRegistry: Asset discovery search completed in 8.6870 seconds
+[2019.03.03-10.14.41:974][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.03-10.14.41:974][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2019.03.03-10.14.44:574][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.03-10.14.45:645][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.03-10.14.45:657][431]PIE: New page: PIE session: Untitled_0 (2019年3月4日 上午2:14:45)
+[2019.03.03-10.14.45:657][431]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2019.03.03-10.14.45:658][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000826s)
+[2019.03.03-10.14.45:659][431]LogAIModule: Creating AISystem for world Untitled
+[2019.03.03-10.14.45:659][431]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2019.03.03-10.14.45:659][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001696s)
+[2019.03.03-10.14.45:689][431]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.03-10.14.45:706][431]LogInit: FAudioDevice initialized.
+[2019.03.03-10.14.45:712][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.03-10.14.45:714][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-10.14.46:052][431]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2019.03.03-10.14.46:053][431]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2019.03.03-10.14.46:053][431]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2019.03.03-10.14.46:063][431]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0030.11] Compile of FirstPersonCharacter successful, but with 3 Warning(s) [in 26 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2019.03.03-10.14.46:666][431]LogLoad: Game class is 'My_Game_Mode_C'
+[2019.03.03-10.14.46:669][431]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 0) at 2019.03.03-18.14.46
+[2019.03.03-10.14.46:669][431]LogWorld: Bringing up level for play took: 0.000754
+[2019.03.03-10.14.46:689][431]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.03.03-10.14.46:696][431]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 1.309
+[2019.03.03-10.14.46:735][432]LogRenderer: Reallocating scene render targets to support 3192x1596 Format 26 NumSamples 1 (Frame:1).
+[2019.03.03-10.14.56:370][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-10.14.56:404][712]LogSlate: Window 'Wk8Sem2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.03-10.14.56:447][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.03-10.14.56:490][713]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.03.03-10.14.57:733][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-10.15.00:976][229]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.03-10.15.01:245][229]LogClass: Warning: Enum '/Game/VirtualRealityBP/Blueprints/GripEnum.GripEnum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.03.03-10.15.01:260][229]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; please replace or remove it.
+[2019.03.03-10.15.01:260][229]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; Please use the Motion Source property instead of Hand
+[2019.03.03-10.15.01:267][229]LogBlueprint: Warning: [Compiler BP_MotionController] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2019.03.03-10.15.01:287][229]LogBlueprint: Warning: [Compiler BP_MotionController] [0045.34] Compile of BP_MotionController successful, but with 3 Warning(s) [in 48 ms] (/Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController)
+[2019.03.03-10.15.02:922][229]LogAIModule: Creating AISystem for world persistent_level
+[2019.03.03-10.15.02:932][229]LogMaterial: Warning: Material /Game/Assets/Models/Cog_wheel/01/gears.gears needed to have new flag set bUsedWithStaticLighting !
+[2019.03.03-10.15.02:938][229]LogMaterial: Display: Missing cached shader map for material gears, compiling. 
+[2019.03.03-10.15.03:011][229]MapCheck: Warning: gears Material /Game/Assets/Models/Cog_wheel/01/gears.gears was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.03.03-10.15.03:018][229]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.03-10.15.03:018][229]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.03-10.15.03:018][229]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.03-10.15.03:044][229]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/persistent_level.persistent_level
+[2019.03.03-10.15.03:073][229]Cmd: MAP LOAD FILE="../../../../../../Users/XPS83/OneDrive/Documents/GitHub/AdventureVRGame/Content/VirtualRealityBP/Maps/persistent_level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.03-10.15.03:073][229]LightingResults: New page: Lighting Build
+[2019.03.03-10.15.03:079][229]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.03.03-10.15.03:081][229]LoadErrors: New page: Loading map: persistent_level.umap
+[2019.03.03-10.15.03:082][229]MapCheck: New page: Map Check
+[2019.03.03-10.15.03:082][229]LightingResults: New page: Lighting Build
+[2019.03.03-10.15.03:260][229]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.03-10.15.03:359][229]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.03-10.15.03:506][229]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 147.132ms to complete.
+[2019.03.03-10.15.03:507][229]LogFileHelpers: Loading map 'persistent_level' took 0.435
+[2019.03.03-10.15.05:194][402]LogSlate: Window 'Message Log' being destroyed
+[2019.03.03-10.15.05:197][402]LogSlate: Window 'Message Log' being destroyed
+[2019.03.03-10.15.05:936][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-10.15.06:029][491]LogTemp: Repeating last play command: VR Preview
+[2019.03.03-10.15.06:050][491]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.15.06:050][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.03-10.15.06:050][491]PIE: New page: PIE session: persistent_level (2019年3月4日 上午2:15:06)
+[2019.03.03-10.15.06:050][491]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level
+[2019.03.03-10.15.06:209][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.159164s)
+[2019.03.03-10.15.06:210][491]LogAIModule: Creating AISystem for world persistent_level
+[2019.03.03-10.15.06:210][491]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2019.03.03-10.15.06:210][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/persistent_level.persistent_level to /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level.persistent_level (0.160349s)
+[2019.03.03-10.15.06:246][491]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.03-10.15.06:268][491]LogInit: FAudioDevice initialized.
+[2019.03.03-10.15.06:279][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-10.15.06:356][491]LogLoad: Game class is 'My_Game_Mode_C'
+[2019.03.03-10.15.06:359][491]PIE: Warning: Invalid Simulate Options: Body (BP_Climable29_5.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.15.06:359][491]PIE: Warning: Invalid Simulate Options: Body (BP_Climable29_5.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.15.06:359][491]PIE: Warning: Invalid Simulate Options: Body (BP_Climable30_11.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.15.06:359][491]PIE: Warning: Invalid Simulate Options: Body (BP_Climable30_11.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.15.06:359][491]PIE: Warning: Invalid Simulate Options: Body (BP_Climable31_13.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.15.06:359][491]PIE: Warning: Invalid Simulate Options: Body (BP_Climable31_13.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.15.06:360][491]PIE: Warning: Invalid Simulate Options: Body (BP_Climable32_15.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.15.06:360][491]PIE: Warning: Invalid Simulate Options: Body (BP_Climable32_15.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.15.06:360][491]PIE: Warning: Invalid Simulate Options: Body (BP_Climable33_17.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.15.06:360][491]PIE: Warning: Invalid Simulate Options: Body (BP_Climable33_17.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.15.06:360][491]PIE: Warning: Invalid Simulate Options: Body (BP_Climable34.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.15.06:360][491]PIE: Warning: Invalid Simulate Options: Body (BP_Climable34.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.15.06:360][491]PIE: Warning: Invalid Simulate Options: Body (BP_Climable35.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.15.06:360][491]PIE: Warning: Invalid Simulate Options: Body (BP_Climable35.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.15.06:363][491]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level.persistent_level up for play (max tick rate 0) at 2019.03.03-18.15.06
+[2019.03.03-10.15.06:364][491]LogWorld: Bringing up level for play took: 0.008003
+[2019.03.03-10.15.06:383][491]LogStreaming: Display: Flushing async loaders.
+[2019.03.03-10.15.06:444][491]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.15.06:445][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.15.06:445][491]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.15.06:445][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.15.06:445][491]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.15.06:445][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.15.06:445][491]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.15.06:446][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.15.06:446][491]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.15.06:446][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.15.06:446][491]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.15.06:446][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.15.06:446][491]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.15.06:447][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.15.06:447][491]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.15.06:447][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.15.06:448][491]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.15.06:448][491]LoadErrors: Failed to load /Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo.Pillar_body_full_lo Referenced by Pillar_body_full_lo_2
+[2019.03.03-10.15.06:448][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.15.06:448][491]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.15.06:449][491]LoadErrors: Failed to load /Game/Assets/Assets/Models/Pillar_body/Material_001.Material_001 Referenced by Pillar_body_full_lo_2
+[2019.03.03-10.15.06:449][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.15.06:890][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.15.06:890][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.15.06:891][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.15.06:891][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.15.06:891][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.15.06:891][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.15.06:895][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.15.06:895][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.15.06:895][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.15.06:895][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.15.06:895][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.15.06:895][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.15.06:902][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.15.06:902][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.15.06:902][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.15.06:902][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.15.06:902][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.15.06:903][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.15.06:903][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.15.06:904][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.15.06:904][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.15.06:904][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.15.06:904][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.15.06:904][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.15.06:924][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.15.06:924][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.15.06:924][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.15.06:924][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.15.06:925][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.15.06:925][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.15.06:925][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.15.06:925][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.15.06:925][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.15.06:925][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.15.06:925][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.15.06:926][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.15.06:978][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.15.06:978][491]LoadErrors: Failed to load /Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue.Wind-Mark_DiAngelo-1940285615_Cue Referenced by InterpTrackSound_0
+[2019.03.03-10.15.06:979][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.15.06:979][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.15.06:979][491]LoadErrors: Failed to load /Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue.Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue Referenced by InterpTrackSound_1
+[2019.03.03-10.15.06:979][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.15.06:979][491]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.15.06:979][491]LoadErrors: Failed to load /Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue.water-drops-daniel_simon_Cue Referenced by InterpTrackSound_0
+[2019.03.03-10.15.06:980][491]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.15.09:444][491]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.15.09:447][491]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.15.09:450][491]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.15.09:459][491]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level 4.071
+[2019.03.03-10.15.09:459][491]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.15.10:838][494]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.15.14:896][606]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.15.15:089][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-10.15.16:902][606]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.03-10.15.16:902][606]LogSlate: Window 'Wk8Sem2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.03-10.15.17:025][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.03-10.15.17:025][606]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.15.17:116][607]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.03.03-10.15.23:332][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.03-10.15.34:896][998]LogSlate: Window 'Entering VR Mode - Experimental' being destroyed
+[2019.03.03-10.15.42:422][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-10.16.42:156][445]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.03-10.16.42:156][445]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.03-10.16.43:952][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-10.16.44:048][609]LogTemp: Repeating last play command: VR Preview
+[2019.03.03-10.16.44:070][609]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.16.44:070][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.03-10.16.44:070][609]PIE: New page: PIE session: persistent_level (2019年3月4日 上午2:16:44)
+[2019.03.03-10.16.44:071][609]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level
+[2019.03.03-10.16.44:219][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.148748s)
+[2019.03.03-10.16.44:219][609]LogAIModule: Creating AISystem for world persistent_level
+[2019.03.03-10.16.44:220][609]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2019.03.03-10.16.44:220][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/persistent_level.persistent_level to /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level.persistent_level (0.149965s)
+[2019.03.03-10.16.44:277][609]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.03-10.16.44:295][609]LogInit: FAudioDevice initialized.
+[2019.03.03-10.16.44:302][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-10.16.44:386][609]LogLoad: Game class is 'My_Game_Mode_C'
+[2019.03.03-10.16.44:390][609]PIE: Warning: Invalid Simulate Options: Body (BP_Climable29_5.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.16.44:390][609]PIE: Warning: Invalid Simulate Options: Body (BP_Climable29_5.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.16.44:390][609]PIE: Warning: Invalid Simulate Options: Body (BP_Climable30_11.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.16.44:390][609]PIE: Warning: Invalid Simulate Options: Body (BP_Climable30_11.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.16.44:390][609]PIE: Warning: Invalid Simulate Options: Body (BP_Climable31_13.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.16.44:390][609]PIE: Warning: Invalid Simulate Options: Body (BP_Climable31_13.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.16.44:395][609]PIE: Warning: Invalid Simulate Options: Body (BP_Climable32_15.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.16.44:396][609]PIE: Warning: Invalid Simulate Options: Body (BP_Climable32_15.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.16.44:396][609]PIE: Warning: Invalid Simulate Options: Body (BP_Climable33_17.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.16.44:396][609]PIE: Warning: Invalid Simulate Options: Body (BP_Climable33_17.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.16.44:396][609]PIE: Warning: Invalid Simulate Options: Body (BP_Climable34.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.16.44:396][609]PIE: Warning: Invalid Simulate Options: Body (BP_Climable34.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.16.44:396][609]PIE: Warning: Invalid Simulate Options: Body (BP_Climable35.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.16.44:396][609]PIE: Warning: Invalid Simulate Options: Body (BP_Climable35.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.16.44:409][609]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level.persistent_level up for play (max tick rate 0) at 2019.03.03-18.16.44
+[2019.03.03-10.16.44:411][609]LogWorld: Bringing up level for play took: 0.024285
+[2019.03.03-10.16.44:428][609]LogStreaming: Display: Flushing async loaders.
+[2019.03.03-10.16.44:433][609]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.16.44:433][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.16.44:433][609]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.16.44:433][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.16.44:433][609]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.16.44:433][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.16.44:434][609]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.16.44:434][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.16.44:434][609]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.16.44:434][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.16.44:434][609]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.16.44:435][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.16.44:435][609]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.16.44:435][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.16.44:435][609]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.16.44:435][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.16.44:436][609]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.16.44:436][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.16.44:436][609]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.16.44:436][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.16.44:466][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.16.44:466][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.16.44:466][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.16.44:467][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.16.44:467][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.16.44:467][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.16.44:470][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.16.44:470][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.16.44:470][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.16.44:471][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.16.44:471][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.16.44:471][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.16.44:478][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.16.44:478][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.16.44:478][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.16.44:478][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.16.44:478][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.16.44:478][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.16.44:479][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.16.44:479][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.16.44:479][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.16.44:479][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.16.44:479][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.16.44:479][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.16.44:487][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.16.44:487][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.16.44:487][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.16.44:487][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.16.44:487][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.16.44:488][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.16.44:488][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.16.44:488][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.16.44:488][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.16.44:488][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.16.44:488][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.16.44:488][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.16.44:535][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.16.44:536][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.16.44:536][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.16.44:536][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.16.44:536][609]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.16.44:536][609]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.16.44:767][609]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.16.44:769][609]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.16.44:772][609]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.16.44:781][609]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level 1.394
+[2019.03.03-10.16.44:781][609]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.16.46:749][666]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.16.46:944][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-10.16.46:994][666]LogSlate: Window 'Wk8Sem2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.03-10.16.47:039][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.03-10.16.47:040][666]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.16.47:113][667]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.03.03-10.16.54:363][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-10.17.00:811][571]LogEditorActor: Deleted Actor: FirstPersonCharacter_C
+[2019.03.03-10.17.00:840][571]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.03.03-10.17.03:737][899]LogTemp: Repeating last play command: VR Preview
+[2019.03.03-10.17.03:761][899]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.17.03:761][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.03-10.17.03:761][899]PIE: New page: PIE session: persistent_level (2019年3月4日 上午2:17:03)
+[2019.03.03-10.17.03:761][899]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level
+[2019.03.03-10.17.03:911][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.149662s)
+[2019.03.03-10.17.03:912][899]LogAIModule: Creating AISystem for world persistent_level
+[2019.03.03-10.17.03:912][899]LogPlayLevel: PIE: World Init took: (0.001465s)
+[2019.03.03-10.17.03:912][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/persistent_level.persistent_level to /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level.persistent_level (0.151319s)
+[2019.03.03-10.17.03:949][899]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.03-10.17.03:967][899]LogInit: FAudioDevice initialized.
+[2019.03.03-10.17.03:976][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-10.17.04:060][899]LogLoad: Game class is 'My_Game_Mode_C'
+[2019.03.03-10.17.04:065][899]PIE: Warning: Invalid Simulate Options: Body (BP_Climable29_5.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.17.04:065][899]PIE: Warning: Invalid Simulate Options: Body (BP_Climable29_5.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.17.04:065][899]PIE: Warning: Invalid Simulate Options: Body (BP_Climable30_11.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.17.04:065][899]PIE: Warning: Invalid Simulate Options: Body (BP_Climable30_11.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.17.04:065][899]PIE: Warning: Invalid Simulate Options: Body (BP_Climable31_13.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.17.04:065][899]PIE: Warning: Invalid Simulate Options: Body (BP_Climable31_13.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.17.04:065][899]PIE: Warning: Invalid Simulate Options: Body (BP_Climable32_15.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.17.04:065][899]PIE: Warning: Invalid Simulate Options: Body (BP_Climable32_15.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.17.04:065][899]PIE: Warning: Invalid Simulate Options: Body (BP_Climable33_17.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.17.04:065][899]PIE: Warning: Invalid Simulate Options: Body (BP_Climable33_17.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.17.04:065][899]PIE: Warning: Invalid Simulate Options: Body (BP_Climable34.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.17.04:065][899]PIE: Warning: Invalid Simulate Options: Body (BP_Climable34.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.17.04:065][899]PIE: Warning: Invalid Simulate Options: Body (BP_Climable35.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.17.04:065][899]PIE: Warning: Invalid Simulate Options: Body (BP_Climable35.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.17.04:067][899]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level.persistent_level up for play (max tick rate 0) at 2019.03.03-18.17.04
+[2019.03.03-10.17.04:068][899]LogWorld: Bringing up level for play took: 0.007578
+[2019.03.03-10.17.04:084][899]LogStreaming: Display: Flushing async loaders.
+[2019.03.03-10.17.04:088][899]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.17.04:089][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.17.04:089][899]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.17.04:089][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.17.04:089][899]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.17.04:089][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.17.04:089][899]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.17.04:090][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.17.04:090][899]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.17.04:090][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.17.04:090][899]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.17.04:090][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.17.04:090][899]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.17.04:090][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.17.04:091][899]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.17.04:091][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.17.04:092][899]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.17.04:093][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.17.04:093][899]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.17.04:093][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.17.04:123][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.17.04:123][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.17.04:124][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.17.04:124][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.17.04:124][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.17.04:124][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.17.04:128][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.17.04:128][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.17.04:128][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.17.04:128][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.17.04:128][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.17.04:128][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.17.04:134][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.17.04:134][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.17.04:134][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.17.04:134][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.17.04:134][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.17.04:135][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.17.04:135][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.17.04:135][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.17.04:135][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.17.04:135][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.17.04:135][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.17.04:135][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.17.04:148][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.17.04:148][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.17.04:149][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.17.04:149][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.17.04:149][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.17.04:149][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.17.04:149][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.17.04:149][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.17.04:149][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.17.04:150][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.17.04:150][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.17.04:150][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.17.04:196][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.17.04:197][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.17.04:197][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.17.04:197][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.17.04:197][899]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.17.04:198][899]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.17.04:451][899]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.17.04:453][899]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.17.04:455][899]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.17.04:461][899]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level 1.074
+[2019.03.03-10.17.04:462][899]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.17.06:314][952]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.17.06:516][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-10.17.06:568][952]LogSlate: Window 'Wk8Sem2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.03-10.17.06:611][952]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.03-10.17.06:611][952]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.17.06:687][953]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.03.03-10.17.09:433][241]Cmd: TRANSACTION UNDO
+[2019.03.03-10.17.09:433][241]LogEditorTransaction: Undo Delete selection
+[2019.03.03-10.17.10:914][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-10.17.27:695][896]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.03-10.18.16:462][441]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/My_Game_Mode.My_Game_Mode
+[2019.03.03-10.18.17:132][441]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2019.03.03-10.18.27:938][328]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.03-10.18.32:125][698]LogSlate: Window 'My_Game_Mode' being destroyed
+[2019.03.03-10.18.32:130][698]LogSlate: Window 'My_Game_Mode' being destroyed
+[2019.03.03-10.20.32:643][456]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.03-10.20.32:645][456]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2019.03.03-10.25.15:832][666]LogSavePackage: Moving '../../../../../../Users/XPS83/OneDrive/Documents/GitHub/AdventureVRGame/Saved/persistent_level_Auto156A72B3A469587BB451044B337EECAE4.tmp' to '../../../../../../Users/XPS83/OneDrive/Documents/GitHub/AdventureVRGame/Saved/Autosaves/Game/VirtualRealityBP/Maps/persistent_level_Auto1.umap'
+[2019.03.03-10.25.15:844][666]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/persistent_level' took 0.446
+[2019.03.03-10.25.15:844][666]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.446
+[2019.03.03-10.27.48:864][282]LogTemp: Repeating last play command: VR Preview
+[2019.03.03-10.27.48:884][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.27.48:884][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.03-10.27.48:884][282]PIE: New page: PIE session: persistent_level (2019年3月4日 上午2:27:48)
+[2019.03.03-10.27.48:884][282]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level
+[2019.03.03-10.27.49:031][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.146956s)
+[2019.03.03-10.27.49:032][282]LogAIModule: Creating AISystem for world persistent_level
+[2019.03.03-10.27.49:032][282]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2019.03.03-10.27.49:032][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/persistent_level.persistent_level to /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level.persistent_level (0.148224s)
+[2019.03.03-10.27.49:105][282]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.03-10.27.49:120][282]LogInit: FAudioDevice initialized.
+[2019.03.03-10.27.49:128][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-10.27.49:199][282]LogLoad: Game class is 'My_Game_Mode_C'
+[2019.03.03-10.27.49:203][282]PIE: Warning: Invalid Simulate Options: Body (BP_Climable29_5.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.27.49:203][282]PIE: Warning: Invalid Simulate Options: Body (BP_Climable29_5.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.27.49:203][282]PIE: Warning: Invalid Simulate Options: Body (BP_Climable30_11.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.27.49:203][282]PIE: Warning: Invalid Simulate Options: Body (BP_Climable30_11.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.27.49:203][282]PIE: Warning: Invalid Simulate Options: Body (BP_Climable31_13.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.27.49:203][282]PIE: Warning: Invalid Simulate Options: Body (BP_Climable31_13.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.27.49:203][282]PIE: Warning: Invalid Simulate Options: Body (BP_Climable32_15.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.27.49:204][282]PIE: Warning: Invalid Simulate Options: Body (BP_Climable32_15.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.27.49:204][282]PIE: Warning: Invalid Simulate Options: Body (BP_Climable33_17.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.27.49:204][282]PIE: Warning: Invalid Simulate Options: Body (BP_Climable33_17.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.27.49:204][282]PIE: Warning: Invalid Simulate Options: Body (BP_Climable34.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.27.49:204][282]PIE: Warning: Invalid Simulate Options: Body (BP_Climable34.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.27.49:204][282]PIE: Warning: Invalid Simulate Options: Body (BP_Climable35.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.27.49:204][282]PIE: Warning: Invalid Simulate Options: Body (BP_Climable35.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.27.49:207][282]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level.persistent_level up for play (max tick rate 0) at 2019.03.03-18.27.49
+[2019.03.03-10.27.49:207][282]LogWorld: Bringing up level for play took: 0.007553
+[2019.03.03-10.27.49:224][282]LogStreaming: Display: Flushing async loaders.
+[2019.03.03-10.27.49:229][282]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.27.49:229][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.27.49:229][282]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.27.49:229][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.27.49:229][282]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.27.49:229][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.27.49:230][282]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.27.49:230][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.27.49:230][282]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.27.49:230][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.27.49:230][282]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.27.49:230][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.27.49:230][282]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.27.49:231][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.27.49:231][282]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.27.49:231][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.27.49:232][282]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.27.49:232][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.27.49:232][282]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.27.49:232][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.27.49:260][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.27.49:260][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.27.49:260][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.27.49:261][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.27.49:261][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.27.49:262][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.27.49:265][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.27.49:265][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.27.49:265][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.27.49:265][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.27.49:265][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.27.49:265][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.27.49:271][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.27.49:271][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.27.49:271][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.27.49:272][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.27.49:272][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.27.49:272][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.27.49:272][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.27.49:272][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.27.49:273][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.27.49:273][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.27.49:273][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.27.49:273][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.27.49:279][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.27.49:280][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.27.49:280][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.27.49:280][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.27.49:280][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.27.49:280][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.27.49:280][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.27.49:280][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.27.49:281][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.27.49:281][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.27.49:281][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.27.49:281][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.27.49:326][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.27.49:327][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.27.49:327][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.27.49:327][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.27.49:328][282]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.27.49:328][282]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.27.49:549][282]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.49:552][282]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.49:554][282]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.49:564][282]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level 0.177
+[2019.03.03-10.27.49:565][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.27.57:226][507]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:259][508]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:294][509]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:329][510]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:361][511]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:395][512]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:428][513]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:461][514]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:497][515]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:528][516]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:563][517]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:596][518]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:628][519]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:662][520]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:695][521]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:727][522]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:762][523]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:794][524]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:827][525]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:860][526]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.27.57:894][527]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.02:091][653]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.28.02:288][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-10.28.02:342][653]LogSlate: Window 'Wk8Sem2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.03-10.28.02:383][653]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.03-10.28.02:384][653]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.28.02:465][654]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.03.03-10.28.19:540][945]LogTemp: Repeating last play command: VR Preview
+[2019.03.03-10.28.19:558][945]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.28.19:558][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.03-10.28.19:558][945]PIE: New page: PIE session: persistent_level (2019年3月4日 上午2:28:19)
+[2019.03.03-10.28.19:558][945]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level
+[2019.03.03-10.28.19:705][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.147539s)
+[2019.03.03-10.28.19:706][945]LogAIModule: Creating AISystem for world persistent_level
+[2019.03.03-10.28.19:706][945]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2019.03.03-10.28.19:706][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/persistent_level.persistent_level to /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level.persistent_level (0.148680s)
+[2019.03.03-10.28.19:746][945]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.03-10.28.19:763][945]LogInit: FAudioDevice initialized.
+[2019.03.03-10.28.19:772][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-10.28.19:848][945]LogLoad: Game class is 'My_Game_Mode_C'
+[2019.03.03-10.28.19:853][945]PIE: Warning: Invalid Simulate Options: Body (BP_Climable29_5.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.28.19:853][945]PIE: Warning: Invalid Simulate Options: Body (BP_Climable29_5.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.28.19:853][945]PIE: Warning: Invalid Simulate Options: Body (BP_Climable30_11.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.28.19:853][945]PIE: Warning: Invalid Simulate Options: Body (BP_Climable30_11.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.28.19:853][945]PIE: Warning: Invalid Simulate Options: Body (BP_Climable31_13.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.28.19:853][945]PIE: Warning: Invalid Simulate Options: Body (BP_Climable31_13.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.28.19:853][945]PIE: Warning: Invalid Simulate Options: Body (BP_Climable32_15.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.28.19:853][945]PIE: Warning: Invalid Simulate Options: Body (BP_Climable32_15.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.28.19:853][945]PIE: Warning: Invalid Simulate Options: Body (BP_Climable33_17.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.28.19:853][945]PIE: Warning: Invalid Simulate Options: Body (BP_Climable33_17.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.28.19:853][945]PIE: Warning: Invalid Simulate Options: Body (BP_Climable34.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.28.19:853][945]PIE: Warning: Invalid Simulate Options: Body (BP_Climable34.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.28.19:853][945]PIE: Warning: Invalid Simulate Options: Body (BP_Climable35.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.28.19:853][945]PIE: Warning: Invalid Simulate Options: Body (BP_Climable35.StaticMeshComponent0 Rock01_lo) is set to simulate physics but Collision Enabled is incompatible
+[2019.03.03-10.28.19:856][945]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level.persistent_level up for play (max tick rate 0) at 2019.03.03-18.28.19
+[2019.03.03-10.28.19:857][945]LogWorld: Bringing up level for play took: 0.008482
+[2019.03.03-10.28.19:871][945]LogStreaming: Display: Flushing async loaders.
+[2019.03.03-10.28.19:875][945]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.28.19:875][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.28.19:875][945]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.28.19:875][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.28.19:875][945]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.28.19:875][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.28.19:875][945]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.28.19:876][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.28.19:876][945]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.28.19:876][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.28.19:876][945]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.28.19:876][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.28.19:876][945]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.28.19:876][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.28.19:877][945]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.28.19:877][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.28.19:878][945]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo'
+[2019.03.03-10.28.19:878][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Pillar_body_full_lo' while loading NULL.
+[2019.03.03-10.28.19:878][945]LogLinker: Warning: Can't find file '/Game/Assets/Assets/Models/Pillar_body/Material_001'
+[2019.03.03-10.28.19:878][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Assets/Models/Pillar_body/Material_001' while loading NULL.
+[2019.03.03-10.28.19:906][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.28.19:907][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.28.19:907][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.28.19:907][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.28.19:907][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.28.19:907][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.28.19:910][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.28.19:910][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.28.19:910][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.28.19:910][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.28.19:911][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.28.19:911][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.28.19:917][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.28.19:917][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.28.19:917][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.28.19:917][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.28.19:917][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.28.19:917][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.28.19:918][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.28.19:918][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.28.19:918][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.28.19:918][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.28.19:918][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.28.19:918][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.28.19:924][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.28.19:924][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.28.19:925][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.28.19:925][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.28.19:925][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.28.19:925][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.28.19:925][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.28.19:925][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.28.19:925][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.28.19:925][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.28.19:926][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.28.19:926][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.28.19:974][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue'
+[2019.03.03-10.28.19:974][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Windsoundeffect/Wind-Mark_DiAngelo-1940285615_Cue' while loading NULL.
+[2019.03.03-10.28.19:974][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue'
+[2019.03.03-10.28.19:974][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/AmbienceDesert/Desert_Flutes_-_Dark_Ambient_Music_Wind_Sounds_-_Fantasy_Medieval_Music--P4QAJv5MDc_Cue' while loading NULL.
+[2019.03.03-10.28.19:975][945]LogLinker: Warning: Can't find file '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue'
+[2019.03.03-10.28.19:975][945]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sound/Waterdrop/water-drops-daniel_simon_Cue' while loading NULL.
+[2019.03.03-10.28.20:206][945]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:215][945]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_persistent_level 0.827
+[2019.03.03-10.28.20:215][945]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.28.20:224][945]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:338][946]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:360][947]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:378][948]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:409][949]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:443][950]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:477][951]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:508][952]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:542][953]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:575][954]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:610][955]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:647][956]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:675][957]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:708][958]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:741][959]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:775][960]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:808][961]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:842][962]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.20:875][963]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.21:217][964]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.21:558][965]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.21:891][966]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.22:227][967]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.22:557][968]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.22:894][969]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.23:228][970]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.23:561][971]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.23:894][972]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.24:232][973]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.24:565][974]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.24:898][975]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.25:232][976]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.25:565][977]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.25:903][978]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.26:236][979]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.26:572][980]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.26:905][981]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.27:237][982]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.27:571][983]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.27:903][984]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.28:237][985]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.28:576][986]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.28:911][987]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.29:250][988]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.29:580][989]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.29:914][990]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.30:248][991]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.30:582][992]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.30:916][993]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.28.56:287][526]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2019.03.03-10.29.10:665][783]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:168][828]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:171][828]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:201][829]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:234][830]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:269][831]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:301][832]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:335][833]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:368][834]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:400][835]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:434][836]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:468][837]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:501][838]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:535][839]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:668][843]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:702][844]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:737][845]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:769][846]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:802][847]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:835][848]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:867][849]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:901][850]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:934][851]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.12:968][852]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:004][853]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:035][854]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:068][855]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:103][856]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:135][857]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:169][858]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:202][859]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:235][860]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:269][861]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:303][862]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:335][863]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:370][864]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:403][865]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:436][866]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:469][867]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:503][868]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:536][869]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:569][870]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:604][871]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:636][872]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:669][873]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:703][874]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:735][875]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:769][876]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:803][877]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:837][878]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:870][879]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:903][880]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:932][881]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.13:966][882]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:000][883]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:033][884]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:067][885]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:100][886]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:136][887]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:169][888]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:203][889]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:235][890]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:369][894]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:403][895]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:436][896]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:469][897]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:474][897]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:503][898]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:535][899]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:539][899]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:570][900]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:603][901]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.14:638][902]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.16:203][949]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.16:271][951]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.16:537][959]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.16:540][959]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.16:571][960]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.16:605][961]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.16:640][962]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.16:671][963]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.16:704][964]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.16:737][965]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.16:772][966]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.16:804][967]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.16:937][971]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.16:971][972]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:005][973]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:038][974]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:070][975]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:104][976]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:137][977]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:172][978]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:205][979]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:239][980]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:275][981]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:306][982]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:338][983]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:373][984]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:402][985]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:436][986]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:472][987]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:505][988]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:538][989]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.17:572][990]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.18:206][  9]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.18:240][ 10]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.18:275][ 11]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.18:307][ 12]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.18:339][ 13]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.18:373][ 14]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.18:539][ 19]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.18:574][ 20]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.18:606][ 21]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.18:673][ 23]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.18:774][ 26]LogBlueprintUserMessages: [Check_Point2] GAme Saved
+[2019.03.03-10.29.19:802][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.29.19:995][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-10.29.20:048][ 57]LogSlate: Window 'Wk8Sem2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.03-10.29.20:090][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.03-10.29.20:090][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level' with GeneratedClass '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level'
+[2019.03.03-10.29.20:174][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.03.03-10.30.28:733][696]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.03-10.30.28:733][696]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.03-10.30.32:039][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.03-10.30.33:453][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.03-10.30.33:456][187]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/persistent_level.persistent_level:PersistentLevel.persistent_level
+[2019.03.03-10.30.33:784][187]LogSlate: Took 0.005200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.03-10.30.39:115][681]LogSlate: Window 'persistent_level* - Level Blueprint Editor' being destroyed
+[2019.03.03-10.30.39:118][681]LogSlate: Window 'persistent_level* - Level Blueprint Editor' being destroyed
+[2019.03.03-10.30.50:323][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-10.32.58:456][278]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerCharacterTestScale.MotionControllerCharacterTestScale
+[2019.03.03-10.32.59:650][279]LogSlate: Took 0.016405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.03-10.33.31:645][605]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoPossessAI' with an invalid value of ''
+[2019.03.03-10.33.31:645][605]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoPossessAI' with an invalid value of ''
+[2019.03.03-10.33.31:645][605]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoPossessAI' with an invalid value of ''
+[2019.03.03-10.33.32:745][681]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoPossessAI' with an invalid value of ''
+[2019.03.03-10.33.32:745][681]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoPossessAI' with an invalid value of ''
+[2019.03.03-10.33.32:745][681]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoPossessAI' with an invalid value of ''
+[2019.03.03-10.33.42:487][399]LogSavePackage: Moving '../../../../../../Users/XPS83/OneDrive/Documents/GitHub/AdventureVRGame/Saved/MotionControllerCharacterTestScaE76C60BA470C900C219B34A26A44DCCB.tmp' to '../../../../../../Users/XPS83/OneDrive/Documents/GitHub/AdventureVRGame/Content/VirtualRealityBP/Blueprints/MotionControllerCharacterTestScale.uasset'
+[2019.03.03-10.33.44:746][554]LogSlate: Window 'MotionControllerCharacterTestScale' being destroyed
+[2019.03.03-10.33.44:751][554]LogSlate: Window 'MotionControllerCharacterTestScale' being destroyed
+[2019.03.03-10.33.50:439][138]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.03.03-10.33.54:956][377]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2019.03.03-10.33.54:956][377]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2019.03.03-10.33.54:956][377]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2019.03.03-10.33.57:872][591]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoPossessAI' with an invalid value of ''
+[2019.03.03-10.33.57:872][591]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoPossessAI' with an invalid value of ''
+[2019.03.03-10.33.57:872][591]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoPossessAI' with an invalid value of ''
+[2019.03.03-10.33.58:465][627]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoPossessAI' with an invalid value of ''
+[2019.03.03-10.33.58:465][627]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoPossessAI' with an invalid value of ''
+[2019.03.03-10.33.58:465][627]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoPossessAI' with an invalid value of ''
+[2019.03.03-10.34.02:598][894]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.03.03-10.34.02:687][894]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2019.03.03-10.34.02:688][894]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2019.03.03-10.34.02:688][894]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2019.03.03-10.34.02:944][894]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [1186.99] Compile of FirstPersonCharacter successful, but with 3 Warning(s) [in 345 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2019.03.03-10.34.16:256][744]LogSlate: Window 'FirstPersonCharacter*' being destroyed
+[2019.03.03-10.34.16:260][744]LogSlate: Window 'FirstPersonCharacter*' being destroyed
+[2019.03.03-10.35.02:448][151]LogSlate: Window 'Entering VR Mode - Experimental' being destroyed
+[2019.03.03-10.35.02:730][151]LogMaterial: Display: Missing cached shader map for material SnapGridMaterial, compiling. 
+[2019.03.03-10.35.03:098][151]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.03-10.35.03:098][151]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.03-10.35.03:098][151]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.03-10.35.03:653][151]LogMaterial: Display: Missing cached shader map for material ArrowMaterial, compiling. 
+[2019.03.03-10.35.03:704][151]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2019.03.03-10.35.03:713][151]LogMaterial: Display: Missing cached shader map for material OculusControllerMaterial, compiling. 
+[2019.03.03-10.35.03:730][151]LogMaterial: Display: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2019.03.03-10.35.04:078][151]LogMaterial: Display: Missing cached shader map for material FlattenHeightMat, compiling. 
+[2019.03.03-10.35.04:093][151]LogMaterial: Display: Missing cached shader map for material VRTextMaterial, compiling. 
+[2019.03.03-10.35.04:112][151]LogMaterial: Display: Missing cached shader map for material LineMaterial, compiling. 
+[2019.03.03-10.35.04:125][151]LogMaterial: Display: Missing cached shader map for material VivePreControllerMaterial, compiling. 
+[2019.03.03-10.35.04:141][151]LogMaterial: Display: Missing cached shader map for material GridPostProcess, compiling. 
+[2019.03.03-10.35.04:153][151]LogMaterial: Display: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2019.03.03-10.35.04:165][151]LogMaterial: Display: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2019.03.03-10.35.04:189][151]LogMaterial: Display: Missing cached shader map for material TeleportDirectionMaterial, compiling. 
+[2019.03.03-10.35.04:210][151]LogMaterial: Display: Missing cached shader map for material VRTextMaterial, compiling. 
+[2019.03.03-10.35.04:222][151]LogMaterial: Display: Missing cached shader map for material KeyDiskMaterial, compiling. 
+[2019.03.03-10.35.04:242][151]LogMaterial: Display: Missing cached shader map for material M_ContentWindow, compiling. 
+[2019.03.03-10.35.05:184][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.03-10.35.05:196][151]LogSlate: Window 'Sequencer' being destroyed
+[2019.03.03-10.35.07:174][207]LogShaderCompilers: Display: Shaders left to compile 303
+[2019.03.03-10.35.07:992][229]LogShaderCompilers: Display: Shaders left to compile 293
+[2019.03.03-10.35.09:660][279]LogShaderCompilers: Display: Shaders left to compile 283
+[2019.03.03-10.35.38:440][134]LogShaderCompilers: Display: Shaders left to compile 273
+[2019.03.03-10.35.43:338][281]LogShaderCompilers: Display: Shaders left to compile 263
+[2019.03.03-10.35.47:412][403]LogShaderCompilers: Display: Shaders left to compile 253
+[2019.03.03-10.35.55:830][655]LogShaderCompilers: Display: Shaders left to compile 243
+[2019.03.03-10.36.00:033][781]LogShaderCompilers: Display: Shaders left to compile 233
+[2019.03.03-10.36.05:775][953]LogShaderCompilers: Display: Shaders left to compile 223
+[2019.03.03-10.36.06:922][988]LogShaderCompilers: Display: Shaders left to compile 213
+[2019.03.03-10.36.07:447][  3]Cmd: SELECT NONE
+[2019.03.03-10.36.10:467][ 92]LogShaderCompilers: Display: Shaders left to compile 203
+[2019.03.03-10.36.11:765][135]LogShaderCompilers: Display: Shaders left to compile 193
+[2019.03.03-10.36.12:179][149]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.03-10.36.12:985][175]LogEditorViewport: Clicking Background
+[2019.03.03-10.36.13:716][195]LogShaderCompilers: Display: Shaders left to compile 183
+[2019.03.03-10.36.13:768][196]Cmd: SELECT NONE
+[2019.03.03-10.36.14:002][203]Cmd: SELECT NONE
+[2019.03.03-10.36.16:154][265]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.03-10.36.16:435][271]LogShaderCompilers: Display: Shaders left to compile 173
+[2019.03.03-10.36.16:894][282]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.03-10.36.17:698][360]LogShaderCompilers: Display: Shaders left to compile 163
+[2019.03.03-10.36.23:308][919]LogEditorViewport: Clicking Background
+[2019.03.03-10.36.23:744][929]Cmd: SELECT NONE
+[2019.03.03-10.36.24:076][939]Cmd: SELECT NONE
+[2019.03.03-10.36.24:926][965]LogShaderCompilers: Display: Shaders left to compile 153
+[2019.03.03-10.36.27:560][ 44]LogShaderCompilers: Display: Shaders left to compile 143
+[2019.03.03-10.36.28:163][ 62]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2019.03.03-10.36.29:307][ 92]LogShaderCompilers: Display: Shaders left to compile 133
+[2019.03.03-10.36.32:616][161]LogEditorViewport: Clicking Background
+[2019.03.03-10.36.32:817][164]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2019.03.03-10.36.33:475][175]LogShaderCompilers: Display: Shaders left to compile 123
+[2019.03.03-10.36.35:000][221]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.03.03-10.36.35:094][224]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.03.03-10.36.35:618][239]LogEditorViewport: Clicking Background
+[2019.03.03-10.36.35:819][242]Cmd: EDCALLBACK SELECTEDPROPS
+[2019.03.03-10.36.38:166][311]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.03-10.36.38:837][333]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.03.03-10.36.39:647][358]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.03.03-10.36.39:922][366]LogEditorViewport: Clicking Background
+[2019.03.03-10.36.41:525][416]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.03.03-10.36.41:686][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.03-10.36.43:029][464]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.03.03-10.36.43:141][467]Cmd: SELECT NONE
+[2019.03.03-10.36.43:977][492]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2019.03.03-10.36.46:953][576]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.03.03-10.36.47:751][598]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.03.03-10.36.48:445][617]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.03-10.36.55:338][703]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.03-10.36.56:285][723]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.03-10.36.56:400][727]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.03-10.37.51:628][127]LogEditorViewport: Clicking Background
+[2019.03.03-10.37.55:565][242]LogEditorViewport: Clicking Background
+[2019.03.03-10.38.02:656][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-10.38.07:307][696]LogAIModule: Creating AISystem for world Migrate_level_test
+[2019.03.03-10.38.07:338][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.03-10.38.09:208][895]LogEditorViewport: Clicking Background
+[2019.03.03-10.38.12:013][967]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2019.03.03-10.38.17:148][  4]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.03-10.38.18:931][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.03-10.38.23:134][ 27]LogSlate: Window 'Save Content' being destroyed
+[2019.03.03-10.38.23:267][ 27]LogSlate: Window 'Wk8Sem2 - Unreal Editor' being destroyed
+[2019.03.03-10.38.23:601][ 28]Cmd: QUIT_EDITOR
+[2019.03.03-10.38.24:151][ 28]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.03-10.38.24:179][ 28]LogExit: Preparing to exit.
+[2019.03.03-10.38.25:185][ 28]LogExit: Editor shut down
+[2019.03.03-10.38.25:186][ 28]LogExit: Transaction tracking system shut down
+[2019.03.03-10.38.26:032][ 28]LogExit: Object subsystem successfully closed.
+[2019.03.03-10.38.26:068][ 28]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.03-10.38.26:082][ 28]LogD3D11RHI: Shutdown
+[2019.03.03-10.38.26:082][ 28]LogD3D11RHI: CleanupD3DDevice
+[2019.03.03-10.38.26:087][ 28]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.03-10.38.26:159][ 28]LogModuleManager: Shutting down and abandoning module BlueprintGraph (630)
+[2019.03.03-10.38.26:159][ 28]LogModuleManager: Shutting down and abandoning module StatsViewer (628)
+[2019.03.03-10.38.26:160][ 28]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2019.03.03-10.38.26:160][ 28]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2019.03.03-10.38.26:160][ 28]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.03.03-10.38.26:160][ 28]LogModuleManager: Shutting down and abandoning module WorldBrowser (620)
+[2019.03.03-10.38.26:161][ 28]LogModuleManager: Shutting down and abandoning module SceneOutliner (618)
+[2019.03.03-10.38.26:161][ 28]LogModuleManager: Shutting down and abandoning module AddContentDialog (616)
+[2019.03.03-10.38.26:166][ 28]LogModuleManager: Shutting down and abandoning module WidgetCarousel (615)
+[2019.03.03-10.38.26:166][ 28]LogModuleManager: Shutting down and abandoning module EditorWidgets (612)
+[2019.03.03-10.38.26:166][ 28]LogModuleManager: Shutting down and abandoning module CollectionManager (610)
+[2019.03.03-10.38.26:167][ 28]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.03.03-10.38.26:167][ 28]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.03.03-10.38.26:169][ 28]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.03.03-10.38.26:169][ 28]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.03.03-10.38.26:169][ 28]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.03.03-10.38.26:169][ 28]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.03.03-10.38.26:170][ 28]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.03.03-10.38.26:170][ 28]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.03.03-10.38.26:170][ 28]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.03.03-10.38.26:170][ 28]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.03.03-10.38.26:170][ 28]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.03.03-10.38.26:171][ 28]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.03.03-10.38.26:172][ 28]LogModuleManager: Shutting down and abandoning module SequenceRecorder (585)
+[2019.03.03-10.38.26:174][ 28]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (582)
+[2019.03.03-10.38.26:175][ 28]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (580)
+[2019.03.03-10.38.26:178][ 28]LogModuleManager: Shutting down and abandoning module PlacementMode (579)
+[2019.03.03-10.38.26:179][ 28]LogModuleManager: Shutting down and abandoning module MaterialEditor (578)
+[2019.03.03-10.38.26:180][ 28]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (574)
+[2019.03.03-10.38.26:180][ 28]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (572)
+[2019.03.03-10.38.26:180][ 28]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (570)
+[2019.03.03-10.38.26:181][ 28]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (568)
+[2019.03.03-10.38.26:181][ 28]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (566)
+[2019.03.03-10.38.26:181][ 28]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (564)
+[2019.03.03-10.38.26:181][ 28]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (562)
+[2019.03.03-10.38.26:181][ 28]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (560)
+[2019.03.03-10.38.26:181][ 28]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (558)
+[2019.03.03-10.38.26:181][ 28]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (556)
+[2019.03.03-10.38.26:181][ 28]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (554)
+[2019.03.03-10.38.26:181][ 28]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (552)
+[2019.03.03-10.38.26:181][ 28]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (550)
+[2019.03.03-10.38.26:181][ 28]LogModuleManager: Shutting down and abandoning module CharacterAI (548)
+[2019.03.03-10.38.26:181][ 28]LogModuleManager: Shutting down and abandoning module SmartSnapping (546)
+[2019.03.03-10.38.26:181][ 28]LogModuleManager: Shutting down and abandoning module SessionServices (544)
+[2019.03.03-10.38.26:181][ 28]LogModuleManager: Shutting down and abandoning module ViewportSnapping (542)
+[2019.03.03-10.38.26:181][ 28]LogModuleManager: Shutting down and abandoning module ViewportInteraction (540)
+[2019.03.03-10.38.26:181][ 28]LogModuleManager: Shutting down and abandoning module ClothPainter (538)
+[2019.03.03-10.38.26:182][ 28]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (537)
+[2019.03.03-10.38.26:183][ 28]LogModuleManager: Shutting down and abandoning module LogVisualizer (534)
+[2019.03.03-10.38.26:185][ 28]LogModuleManager: Shutting down and abandoning module IntroTutorials (532)
+[2019.03.03-10.38.26:186][ 28]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (531)
+[2019.03.03-10.38.26:187][ 28]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (528)
+[2019.03.03-10.38.26:187][ 28]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (526)
+[2019.03.03-10.38.26:188][ 28]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (524)
+[2019.03.03-10.38.26:188][ 28]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (522)
+[2019.03.03-10.38.26:188][ 28]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (521)
+[2019.03.03-10.38.27:748][ 28]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (518)
+[2019.03.03-10.38.27:748][ 28]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (516)
+[2019.03.03-10.38.27:748][ 28]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (514)
+[2019.03.03-10.38.27:748][ 28]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (512)
+[2019.03.03-10.38.27:748][ 28]LogModuleManager: Shutting down and abandoning module InputBindingEditor (510)
+[2019.03.03-10.38.27:749][ 28]LogModuleManager: Shutting down and abandoning module MergeActors (508)
+[2019.03.03-10.38.27:750][ 28]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (506)
+[2019.03.03-10.38.27:750][ 28]LogModuleManager: Shutting down and abandoning module LocalizationService (505)
+[2019.03.03-10.38.27:751][ 28]LogModuleManager: Shutting down and abandoning module HardwareTargeting (502)
+[2019.03.03-10.38.27:751][ 28]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (500)
+[2019.03.03-10.38.27:751][ 28]LogModuleManager: Shutting down and abandoning module UndoHistory (498)
+[2019.03.03-10.38.27:751][ 28]LogModuleManager: Shutting down and abandoning module XmlParser (496)
+[2019.03.03-10.38.27:751][ 28]LogModuleManager: Shutting down and abandoning module Blutility (494)
+[2019.03.03-10.38.27:752][ 28]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (492)
+[2019.03.03-10.38.27:752][ 28]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (491)
+[2019.03.03-10.38.27:753][ 28]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (488)
+[2019.03.03-10.38.27:753][ 28]LogModuleManager: Shutting down and abandoning module SettingsEditor (486)
+[2019.03.03-10.38.27:753][ 28]LogModuleManager: Shutting down and abandoning module ProjectLauncher (484)
+[2019.03.03-10.38.27:754][ 28]LogModuleManager: Shutting down and abandoning module SessionFrontend (482)
+[2019.03.03-10.38.27:755][ 28]LogModuleManager: Shutting down and abandoning module ProfilerClient (480)
+[2019.03.03-10.38.27:755][ 28]LogModuleManager: Shutting down and abandoning module DeviceManager (478)
+[2019.03.03-10.38.27:756][ 28]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (477)
+[2019.03.03-10.38.27:811][ 28]LogModuleManager: Shutting down and abandoning module AutomationController (474)
+[2019.03.03-10.38.27:812][ 28]LogModuleManager: Shutting down and abandoning module AutomationWindow (472)
+[2019.03.03-10.38.27:812][ 28]LogModuleManager: Shutting down and abandoning module Layers (470)
+[2019.03.03-10.38.27:814][ 28]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (468)
+[2019.03.03-10.38.27:814][ 28]LogModuleManager: Shutting down and abandoning module DetailCustomizations (466)
+[2019.03.03-10.38.27:814][ 28]LogModuleManager: Shutting down and abandoning module PackagesDialog (464)
+[2019.03.03-10.38.27:815][ 28]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.03.03-10.38.27:818][ 28]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.03.03-10.38.27:818][ 28]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.03.03-10.38.27:818][ 28]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.03.03-10.38.27:824][ 28]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.03.03-10.38.27:825][ 28]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.03.03-10.38.27:826][ 28]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.03.03-10.38.27:826][ 28]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.03.03-10.38.27:826][ 28]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.03.03-10.38.27:827][ 28]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.03.03-10.38.27:827][ 28]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.03.03-10.38.27:827][ 28]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.03.03-10.38.27:828][ 28]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (438)
+[2019.03.03-10.38.27:828][ 28]LogModuleManager: Shutting down and abandoning module MovieScene (436)
+[2019.03.03-10.38.27:828][ 28]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (434)
+[2019.03.03-10.38.27:829][ 28]LogModuleManager: Shutting down and abandoning module LauncherPlatform (432)
+[2019.03.03-10.38.27:829][ 28]LogModuleManager: Shutting down and abandoning module AnalyticsET (430)
+[2019.03.03-10.38.27:829][ 28]LogModuleManager: Shutting down and abandoning module PortalServices (428)
+[2019.03.03-10.38.27:829][ 28]LogModuleManager: Shutting down and abandoning module PortalRpc (426)
+[2019.03.03-10.38.27:829][ 28]LogModuleManager: Shutting down and abandoning module MessagingRpc (424)
+[2019.03.03-10.38.27:829][ 28]LogModuleManager: Shutting down and abandoning module AIModule (422)
+[2019.03.03-10.38.27:829][ 28]LogModuleManager: Shutting down and abandoning module GameplayDebugger (421)
+[2019.03.03-10.38.27:829][ 28]LogModuleManager: Shutting down and abandoning module AITestSuite (419)
+[2019.03.03-10.38.27:829][ 28]LogModuleManager: Shutting down and abandoning module NavigationSystem (417)
+[2019.03.03-10.38.27:830][ 28]LogModuleManager: Shutting down and abandoning module DesktopPlatform (414)
+[2019.03.03-10.38.27:830][ 28]LogModuleManager: Shutting down and abandoning module ProfilerService (412)
+[2019.03.03-10.38.27:973][ 28]LogModuleManager: Shutting down and abandoning module TaskGraph (410)
+[2019.03.03-10.38.27:974][ 28]LogModuleManager: Shutting down and abandoning module SubstanceLiveLink (408)
+[2019.03.03-10.38.27:977][ 28]LogModuleManager: Shutting down and abandoning module SubstanceSource (406)
+[2019.03.03-10.38.27:979][ 28]LogModuleManager: Shutting down and abandoning module SubstanceEditor (404)
+[2019.03.03-10.38.27:980][ 28]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.03.03-10.38.27:980][ 28]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.03.03-10.38.27:980][ 28]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.03.03-10.38.27:980][ 28]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2019.03.03-10.38.27:980][ 28]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2019.03.03-10.38.27:980][ 28]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2019.03.03-10.38.27:981][ 28]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2019.03.03-10.38.27:981][ 28]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2019.03.03-10.38.27:981][ 28]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2019.03.03-10.38.27:981][ 28]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2019.03.03-10.38.27:981][ 28]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2019.03.03-10.38.27:981][ 28]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2019.03.03-10.38.27:981][ 28]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2019.03.03-10.38.27:983][ 28]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (376)
+[2019.03.03-10.38.27:983][ 28]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.03.03-10.38.27:983][ 28]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.03.03-10.38.27:983][ 28]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.03.03-10.38.27:989][ 28]LogModuleManager: Shutting down and abandoning module HTML5Networking (368)
+[2019.03.03-10.38.27:989][ 28]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (366)
+[2019.03.03-10.38.27:989][ 28]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (364)
+[2019.03.03-10.38.27:989][ 28]LogModuleManager: Shutting down and abandoning module BackChannel (362)
+[2019.03.03-10.38.27:990][ 28]LogModuleManager: Shutting down and abandoning module AppleVision (360)
+[2019.03.03-10.38.27:990][ 28]LogModuleManager: Shutting down and abandoning module AppleImageUtils (358)
+[2019.03.03-10.38.27:990][ 28]LogModuleManager: Shutting down and abandoning module AlembicImporter (356)
+[2019.03.03-10.38.27:990][ 28]LogModuleManager: Shutting down and abandoning module AlembicLibrary (355)
+[2019.03.03-10.38.27:990][ 28]LogModuleManager: Shutting down and abandoning module GeometryCache (354)
+[2019.03.03-10.38.27:990][ 28]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (353)
+[2019.03.03-10.38.27:990][ 28]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (348)
+[2019.03.03-10.38.27:991][ 28]LogModuleManager: Shutting down and abandoning module DatasmithContent (346)
+[2019.03.03-10.38.27:992][ 28]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (344)
+[2019.03.03-10.38.27:993][ 28]LogModuleManager: Shutting down and abandoning module PluginBrowser (342)
+[2019.03.03-10.38.27:994][ 28]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (340)
+[2019.03.03-10.38.27:995][ 28]LogModuleManager: Shutting down and abandoning module PolygonModeling (338)
+[2019.03.03-10.38.27:995][ 28]LogModuleManager: Shutting down and abandoning module MeshEditor (336)
+[2019.03.03-10.38.27:996][ 28]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (334)
+[2019.03.03-10.38.27:996][ 28]LogModuleManager: Shutting down and abandoning module CryptoKeys (332)
+[2019.03.03-10.38.27:996][ 28]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (330)
+[2019.03.03-10.38.27:996][ 28]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (328)
+[2019.03.03-10.38.27:996][ 28]LogModuleManager: Shutting down and abandoning module UObjectPlugin (326)
+[2019.03.03-10.38.27:996][ 28]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (324)
+[2019.03.03-10.38.27:997][ 28]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (322)
+[2019.03.03-10.38.27:999][ 28]LogModuleManager: Shutting down and abandoning module GitSourceControl (320)
+[2019.03.03-10.38.28:000][ 28]LogModuleManager: Shutting down and abandoning module SourceControl (319)
+[2019.03.03-10.38.28:001][ 28]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (316)
+[2019.03.03-10.38.28:003][ 28]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (314)
+[2019.03.03-10.38.28:003][ 28]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (312)
+[2019.03.03-10.38.28:003][ 28]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (310)
+[2019.03.03-10.38.28:003][ 28]LogModuleManager: Shutting down and abandoning module Paper2DEditor (308)
+[2019.03.03-10.38.28:004][ 28]LogModuleManager: Shutting down and abandoning module MeshPaint (307)
+[2019.03.03-10.38.28:005][ 28]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (304)
+[2019.03.03-10.38.28:005][ 28]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (302)
+[2019.03.03-10.38.28:006][ 28]LogModuleManager: Shutting down and abandoning module PhysXVehicles (300)
+[2019.03.03-10.38.28:006][ 28]LogModuleManager: Shutting down and abandoning module OculusEditor (298)
+[2019.03.03-10.38.28:006][ 28]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (296)
+[2019.03.03-10.38.28:006][ 28]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (294)
+[2019.03.03-10.38.28:006][ 28]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (292)
+[2019.03.03-10.38.28:006][ 28]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (290)
+[2019.03.03-10.38.28:010][ 28]LogModuleManager: Shutting down and abandoning module ApexDestruction (288)
+[2019.03.03-10.38.28:010][ 28]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2019.03.03-10.38.28:010][ 28]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2019.03.03-10.38.28:112][ 28]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2019.03.03-10.38.28:213][ 28]LogModuleManager: Shutting down and abandoning module SubstanceCore (280)
+[2019.03.03-10.38.28:214][ 28]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.03.03-10.38.28:214][ 28]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.03.03-10.38.28:214][ 28]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.03.03-10.38.28:214][ 28]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.03.03-10.38.28:214][ 28]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.03.03-10.38.28:214][ 28]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.03.03-10.38.28:215][ 28]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.03.03-10.38.28:218][ 28]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.03.03-10.38.28:218][ 28]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.03.03-10.38.28:218][ 28]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.03.03-10.38.28:218][ 28]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.03.03-10.38.28:219][ 28]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.03.03-10.38.28:223][ 28]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.03.03-10.38.28:223][ 28]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.03.03-10.38.28:223][ 28]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.03.03-10.38.28:223][ 28]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.03.03-10.38.28:224][ 28]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.03.03-10.38.28:224][ 28]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.03.03-10.38.28:227][ 28]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.03.03-10.38.28:233][ 28]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.03.03-10.38.28:233][ 28]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.03.03-10.38.28:233][ 28]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.03.03-10.38.28:234][ 28]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.03.03-10.38.28:234][ 28]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.03.03-10.38.28:234][ 28]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.03.03-10.38.28:234][ 28]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.03.03-10.38.28:234][ 28]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.03.03-10.38.28:235][ 28]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.03.03-10.38.28:235][ 28]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.03.03-10.38.28:236][ 28]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.03.03-10.38.28:239][ 28]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.03.03-10.38.28:240][ 28]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.03.03-10.38.28:245][ 28]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.03.03-10.38.28:245][ 28]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.03.03-10.38.28:246][ 28]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.03.03-10.38.28:248][ 28]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.03.03-10.38.28:248][ 28]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.03.03-10.38.28:249][ 28]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.03.03-10.38.28:249][ 28]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.03.03-10.38.28:253][ 28]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.03.03-10.38.28:254][ 28]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.03.03-10.38.28:254][ 28]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.03.03-10.38.28:254][ 28]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.03.03-10.38.28:254][ 28]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.03.03-10.38.28:254][ 28]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.03.03-10.38.28:254][ 28]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.03.03-10.38.28:254][ 28]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.03.03-10.38.28:254][ 28]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.03.03-10.38.28:254][ 28]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.03.03-10.38.28:255][ 28]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.03.03-10.38.28:255][ 28]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.03.03-10.38.28:255][ 28]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.03.03-10.38.28:256][ 28]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.03.03-10.38.28:256][ 28]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.03.03-10.38.28:257][ 28]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.03.03-10.38.28:257][ 28]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.03.03-10.38.28:258][ 28]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.03.03-10.38.28:283][ 28]LogDerivedDataCache: Shutdown
+[2019.03.03-10.38.28:283][ 28]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.03.03-10.38.28:283][ 28]LogXGEController: Cleaning working directory: C:/Users/XPS83/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.03-10.38.28:284][ 28]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.03.03-10.38.28:284][ 28]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.03.03-10.38.28:284][ 28]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.03.03-10.38.28:284][ 28]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.03.03-10.38.28:285][ 28]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.03.03-10.38.28:285][ 28]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.03.03-10.38.28:285][ 28]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.03.03-10.38.28:285][ 28]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.03.03-10.38.28:285][ 28]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.03.03-10.38.28:285][ 28]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.03.03-10.38.28:286][ 28]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.03.03-10.38.28:286][ 28]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.03.03-10.38.28:286][ 28]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.03.03-10.38.28:286][ 28]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.03.03-10.38.28:286][ 28]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.03.03-10.38.28:286][ 28]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.03.03-10.38.28:286][ 28]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.03.03-10.38.28:286][ 28]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.03.03-10.38.28:286][ 28]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.03.03-10.38.28:287][ 28]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.03.03-10.38.28:287][ 28]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.03.03-10.38.28:288][ 28]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.03.03-10.38.28:298][ 28]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.03.03-10.38.28:298][ 28]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.03.03-10.38.28:306][ 28]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.03.03-10.38.28:306][ 28]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.03.03-10.38.28:361][ 28]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.03.03-10.38.28:361][ 28]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.03.03-10.38.28:361][ 28]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.03.03-10.38.28:361][ 28]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.03.03-10.38.28:362][ 28]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.03.03-10.38.28:362][ 28]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.03.03-10.38.28:362][ 28]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.03.03-10.38.28:362][ 28]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.03.03-10.38.28:362][ 28]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.03.03-10.38.28:362][ 28]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.03.03-10.38.28:362][ 28]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.03.03-10.38.28:362][ 28]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.03.03-10.38.28:362][ 28]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.03.03-10.38.28:362][ 28]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.03.03-10.38.28:362][ 28]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.03.03-10.38.28:363][ 28]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.03.03-10.38.28:363][ 28]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.03.03-10.38.28:363][ 28]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.03.03-10.38.28:364][ 28]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.03.03-10.38.28:365][ 28]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.03.03-10.38.28:380][ 28]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.03.03-10.38.28:380][ 28]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.03-10.38.28:380][ 28]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B50549002-4F15-9AFA-E000-65A67CCE4A20%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=2c05188d49c1ce42d0568d81cb1c15b8%7C0a3b6c186c804293b0c10fe1f6a135ee%7Cb2d38687-4008-4a03-9b61-1e77785c0423&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.03-10.38.28:400][ 28]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.03.03-10.38.28:402][ 28]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.03.03-10.38.28:402][ 28]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.03.03-10.38.28:402][ 28]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.03.03-10.38.28:402][ 28]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.03.03-10.38.28:403][ 28]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.03.03-10.38.28:403][ 28]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.03.03-10.38.28:403][ 28]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.03.03-10.38.28:403][ 28]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.03.03-10.38.28:403][ 28]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.03.03-10.38.28:403][ 28]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.03-10.38.28:403][ 28]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.03.03-10.38.28:403][ 28]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.03-10.38.28:404][ 28]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.03-10.38.28:405][ 28]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.03-10.38.28:407][ 28]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.03-10.38.28:411][ 28]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.03-10.38.28:411][ 28]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.03-10.38.28:411][ 28]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.03-10.38.28:413][ 28]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.03-10.38.28:413][ 28]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.03-10.38.28:413][ 28]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.03-10.38.28:414][ 28]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.03-10.38.28:414][ 28]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.03-10.38.28:414][ 28]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.03-10.38.28:414][ 28]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.03-10.38.28:414][ 28]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.03-10.38.28:414][ 28]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.03-10.38.28:414][ 28]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.03-10.38.28:414][ 28]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.03-10.38.28:419][ 28]LogExit: Exiting.
+[2019.03.03-10.38.28:432][ 28]Log file closed, 03/03/19 18:38:28
